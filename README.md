@@ -2,7 +2,7 @@
 
 Creating base projects is something that will serve you well. With what you know now, we are going to create a build that encompasses the basics. We will be adding onto it throughout the program, so while considering this setup process, ensure you pick a repo name that represents what will happen throughout the program.
 
-“Base Project” is a name that would work well in this case. But I don’t not want to prevent anyone from discovering a name that works better.
+“Base Project” is a name that would work well in this case. 
 
 Here are the steps that need to be completed in the allotted time:
 * Create a new repository on GitHub,
